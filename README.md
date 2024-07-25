@@ -10,4 +10,4 @@ The design process involved user research and wireframing
 - Figma
 
 ## Figma Link
-https://www.figma.com/design/N560pAXBSUJwkt0Ohpu3P0/Work?node-id=0-1&t=9x3czdmSCjLnlQ2x-1
+https://www.figma.com/design/N560pAXBSUJwkt0Ohpu3P0/Work?node-id=1-40&t=wqdUAwf2618HK3dP-1
