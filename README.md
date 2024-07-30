@@ -11,3 +11,5 @@ The design process involved user research and wireframing
 
 ## Figma Link
 https://www.figma.com/design/N560pAXBSUJwkt0Ohpu3P0/Work?node-id=1-40&t=wqdUAwf2618HK3dP-1
+
+[Home Page Wireframe](UX1.png)
