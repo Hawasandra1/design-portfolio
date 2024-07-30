@@ -11,12 +11,14 @@ The design process involved:
 
 **Screenshots**
 - **Wireframes**
-  - **Home Page Wireframe**  
+  - **Home Page Wireframe**
+    
   ![UX1](https://github.com/user-attachments/assets/10fe586d-fc16-4654-97e3-46e471e3ebb4)
   
   Description: Initial wireframe showing the layout and elements of the home page.
 
-  - **Dashboard Wireframe**  
+  - **Dashboard Wireframe**
+    
    ![UX3](https://github.com/user-attachments/assets/ac8683a9-0b7d-44de-adfb-9a50758705c1)
 
   Description: Wireframe for the user dashboard, highlighting key interactive components.
