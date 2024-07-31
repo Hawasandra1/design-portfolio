@@ -23,6 +23,7 @@ The design process involved:
 
   Description: Wireframe for the user dashboard, highlighting key interactive components.
 
+Note: These screenshots provide a brief overview of the application and do not capture all features and functionalities
 
 **Figma Link**  
 [View Design Files](https://www.figma.com/design/N560pAXBSUJwkt0Ohpu3P0/Work?node-id=1-40&t=wqdUAwf2618HK3dP-1)
